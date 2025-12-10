@@ -1,0 +1,7 @@
+pydantic
+python-dotenv
+wikipedia-api
+groq
+streamlit
+pandas
+openai

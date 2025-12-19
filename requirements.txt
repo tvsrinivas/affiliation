@@ -13,4 +13,4 @@ lxml_html_clean
 nest_asyncio
 playwright
 aiohttp
-psycopg2
+psycopg2-binary==2.9.11

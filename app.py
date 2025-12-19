@@ -291,8 +291,8 @@ Return STRICT JSON only:
 
     r = client.chat.completions.create(
         model=llm_model,
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0
+        messages=[{"role": "user", "content": prompt}]
+        
     )
 
     out = json.loads(r.choices[0].message.content)

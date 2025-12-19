@@ -5,3 +5,12 @@ groq
 streamlit
 pandas
 openai
+duckduckgo_search
+bs4
+ddgs
+requests-html
+lxml_html_clean 
+nest_asyncio
+playwright
+aiohttp
+psycopg2
